@@ -1,0 +1,769 @@
+{
+   "type": "FeatureCollection",
+   "features":
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.5994436,-7.9437237 ]
+    },
+    "properties": {
+    "id":1,
+    "Name":"BM 'Bengkel Malang'",
+    "Address":"Jalan Joyo Tamansari 1, Merjosari, Lowokwaru, Merjosari, Malang, Kota Malang, Jawa Timur 65144",
+    "Zip Code":65144,
+    "Phone Number":"0812-4994-4070",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6269799,-7.936144 ]
+    },
+    "properties": {
+    "id":2,
+    "Name":"Bengkel Borobudur",
+    "Address":"Jl. Sudimoro No.10a, Mojolangu, Kec. Lowokwaru, Kota Malang, Jawa Timur 65142",
+    "Zip Code":65142,
+    "Phone Number":"0851-0646-8000",
+    "Website":"https://bengkel-borobudur.business.site/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6061629,-7.9470203 ]
+    },
+    "properties": {
+    "id":3,
+    "Name":"Bengkel Mobil Simpang Gajayana",
+    "Address":"Jl. Simpang Gajayana No.63, Merjosari, Kec. Lowokwaru, Kota Malang, Jawa Timur 65144",
+    "Zip Code":65144,
+    "Phone Number":"0851-0013-3110",
+    "Website":"https://bengkel-mobil-simpang-gajayana.business.site/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6032072,-7.9524448 ]
+    },
+    "properties": {
+    "id":4,
+    "Name":"Bengkel Sepeda Motor # Tobyn Oto Servis #",
+    "Address":"Jl. Raya Candi VI No.9, Dinoyo, Kec. Lowokwaru, Kota Malang, Jawa Timur 65149",
+    "Zip Code":65149,
+    "Phone Number":"0812-3372-6589",
+    "Website":"http://tobynotoservis.business.site/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.606437,-7.957263 ]
+    },
+    "properties": {
+    "id":5,
+    "Name":"Bengkel Keong Comunity",
+    "Address":"Jl. Sigura - Gura, Karangbesuki, Kec. Sukun, Kota Malang, Jawa Timur 65145",
+    "Zip Code":65145,
+    "Phone Number":"(0341) 5468422",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6096069,-7.9525248 ]
+    },
+    "properties": {
+    "id":6,
+    "Name":"Bengkel Mobil Mitra Jaya",
+    "Address":"Jl. Raya Sumbersari, Ketawanggede, Kec. Lowokwaru, Kota Malang, Jawa Timur 65145",
+    "Zip Code":65145,
+    "Phone Number":"",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.613267,-7.9616298 ]
+    },
+    "properties": {
+    "id":7,
+    "Name":"Bengkel Mobil Pak Tomo",
+    "Address":"Jl. Bendungan Sutami No.148, Sumbersari, Kec. Lowokwaru, Kota Malang, Jawa Timur 65145",
+    "Zip Code":65145,
+    "Phone Number":"0818-389-266",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6175555,-7.9433511 ]
+    },
+    "properties": {
+    "id":8,
+    "Name":"Bengkel Mobil",
+    "Address":"Jl. Pisang Kipas, Jatimulyo, Kec. Lowokwaru, Kota Malang, Jawa Timur 65141",
+    "Zip Code":65141,
+    "Phone Number":"0821-3289-5703",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.606148,-7.957195 ]
+    },
+    "properties": {
+    "id":9,
+    "Name":"Bengkel Mobil 'Kharomah'",
+    "Address":"Jl. Sigura - Gura No.21, Karangbesuki, Kec. Sukun, Kota Malang, Jawa Timur 65149",
+    "Zip Code":65149,
+    "Phone Number":"(0341) 7747626",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6064386,-7.9551042 ]
+    },
+    "properties": {
+    "id":10,
+    "Name":"Cahaya Oli",
+    "Address":"Jalan bendungan Sigura-gura Barat Ruko Griya Mandiri kav 6, Karangbesuki, Sukun, Karangbesuki, Kec. Sukun, Kota Malang, Jawa Timur 65149",
+    "Zip Code":65149,
+    "Phone Number":"0813-3176-9429",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.625833,-7.948308 ]
+    },
+    "properties": {
+    "id":11,
+    "Name":"Auto Service Kalpataru Bengkel kalpataru By castrol",
+    "Address":"Jl. Kalpataru No.141, Jatimulyo, Kec. Lowokwaru, Kota Malang, Jawa Timur 65141",
+    "Zip Code":65141,
+    "Phone Number":"0852-3464-9758",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6354616,-7.9640887 ]
+    },
+    "properties": {
+    "id":12,
+    "Name":"Sumber Urip",
+    "Address":"Jl. Letjen Sutoyo No.8, Rampal Celaket, Kec. Klojen, Kota Malang, Jawa Timur 65111",
+    "Zip Code":65111,
+    "Phone Number":"(0341) 491670",
+    "Website":"https://sumber-urip-car-repair.business.site/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6352907,-7.9252497 ]
+    },
+    "properties": {
+    "id":13,
+    "Name":"Bengkel mobil panggilan Malang",
+    "Address":"Jl. Ikan Tombro Tengah Sawah No.3b, Tunjungsekar, Kec. Lowokwaru, Kota Malang, Jawa Timur 65142",
+    "Zip Code":65142,
+    "Phone Number":"0822-6463-2054",
+    "Website":"https://bengkel-mobil-panggilan-malang.business.site/?utm_source=gmb&utm_medium=referral"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6104706,-7.9538992 ]
+    },
+    "properties": {
+    "id":14,
+    "Name":"Usaha Motor",
+    "Address":"Jl. Raya Sumbersari No.82B, Sumbersari, Kec. Lowokwaru, Kota Malang, Jawa Timur 65145",
+    "Zip Code":65145,
+    "Phone Number":"(0341) 571339",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.610192,-7.953552 ]
+    },
+    "properties": {
+    "id":15,
+    "Name":"Bengkel Sanjaya Center",
+    "Address":"Jl. Raya Sumbersari No.48, Sumbersari, Kec. Lowokwaru, Kota Malang, Jawa Timur 65145",
+    "Zip Code":65145,
+    "Phone Number":"0899-0364-771",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.608521,-7.957598 ]
+    },
+    "properties": {
+    "id":16,
+    "Name":"Gemini Motor",
+    "Address":"Jalan Bendungan Sigura-gura No.35A-B, Sumbersari, Lowokwaru, Sumbersari, Kec. Lowokwaru, Kota Malang, Jawa Timur 65145",
+    "Zip Code":65145,
+    "Phone Number":"0822-3209-0266",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.636922,-7.962472 ]
+    },
+    "properties": {
+    "id":17,
+    "Name":"Bengkel mobil Bima Motor",
+    "Address":"Jl. Batanghari No.9A, Rampal Celaket, Kec. Klojen, Kota Malang, Jawa Timur 65111",
+    "Zip Code":65111,
+    "Phone Number":"0813-3051-5145",
+    "Website":"https://bima-motor-car-repair.business.site/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6388231,-7.9569336 ]
+    },
+    "properties": {
+    "id":18,
+    "Name":"Bengkel Mobil JM Jaya",
+    "Address":"Jl. Industri Tim. No.14, Purwantoro, Kec. Blimbing, Kota Malang, Jawa Timur 65122",
+    "Zip Code":65122,
+    "Phone Number":"0812-5255-7429",
+    "Website":"https://bengkel-mobil-jm-jaya.business.site/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6251392,-7.9594664 ]
+    },
+    "properties": {
+    "id":19,
+    "Name":"Bengkel Anugrah",
+    "Address":"Jl. Mayjend Panjaitan No.14, Penanggungan, Kec. Klojen, Kota Malang, Jawa Timur 65113",
+    "Zip Code":65113,
+    "Phone Number":"(0341) 553358",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6113606,-7.9552808 ]
+    },
+    "properties": {
+    "id":20,
+    "Name":"Lima Motor Bengkel",
+    "Address":"JL. Sumbersari, No. 286 A, Sumbersari, Kec. Lowokwaru, Kota Malang, Jawa Timur 65145",
+    "Zip Code":65145,
+    "Phone Number":"(0341) 5434034",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.618403,-7.945424 ]
+    },
+    "properties": {
+    "id":21,
+    "Name":"Bengkel Suhat Motor",
+    "Address":"Jl. Soekarno Hatta No.11, Jatimulyo, Kec. Lowokwaru, Kota Malang, Jawa Timur 65141",
+    "Zip Code":65141,
+    "Phone Number":"0822-1343-8110",
+    "Website":"https://bengkel-suhat-motor.business.site/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.599595,-7.969639 ]
+    },
+    "properties": {
+    "id":22,
+    "Name":"Bengkel Sandy",
+    "Address":"Jl. Dieng Atas, Sumberjo, Kalisongo, Kec. Dau, Malang, Jawa Timur 65151",
+    "Zip Code":65151,
+    "Phone Number":"",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6080238,-7.9466385 ]
+    },
+    "properties": {
+    "id":23,
+    "Name":"Toko Fortuna Motor",
+    "Address":"Jl simpang gajayana kavling 15, Dinoyo, Kec. Lowokwaru, Kota Malang, Jawa Timur 65144",
+    "Zip Code":65144,
+    "Phone Number":"",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6170081,-7.9698096 ]
+    },
+    "properties": {
+    "id":24,
+    "Name":"Fathir Bengkel",
+    "Address":"Jl. Simpang Wilis Indah, Gading Kasri, Kec. Klojen, Kota Malang, Jawa Timur 65115",
+    "Zip Code":65115,
+    "Phone Number":"0822-5710-6502",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.603168,-7.932075 ]
+    },
+    "properties": {
+    "id":25,
+    "Name":"49 Bengkel",
+    "Address":"Jl. Tlogomas No.49, Tlogomas, Kec. Sukun, Kota Malang, Jawa Timur 65144",
+    "Zip Code":65144,
+    "Phone Number":"(0341) 564448",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6116205,-7.9653122 ]
+    },
+    "properties": {
+    "id":26,
+    "Name":"Bengkel Mobil 'AKA'",
+    "Address":"Jl. Meratus No.1-15, Karangbesuki, Kec. Sukun, Kota Malang, Jawa Timur 65149",
+    "Zip Code":65149,
+    "Phone Number":"0878-4610-9084",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6435538,-7.9394165 ]
+    },
+    "properties": {
+    "id":27,
+    "Name":"Bengkel Top Mobil",
+    "Address":"Jl. A. Yani No.92-94, Purwodadi, Kec. Blimbing, Kota Malang, Jawa Timur 65126",
+    "Zip Code":65126,
+    "Phone Number":"(0341) 486799",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.622464,-7.952663 ]
+    },
+    "properties": {
+    "id":28,
+    "Name":"Bengkel Cahaya Motor",
+    "Address":"Jl. Bunga Srigading, Jatimulyo, Kec. Lowokwaru, Kota Malang, Jawa Timur 65141",
+    "Zip Code":65141,
+    "Phone Number":"(0341) 488847",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6364221,-7.9555886 ]
+    },
+    "properties": {
+    "id":29,
+    "Name":"Bengkel Yung2 Motor Malang",
+    "Address":"Jl. Selorejo No.30, Lowokwaru, Kec. Lowokwaru, Kota Malang, Jawa Timur 65141",
+    "Zip Code":65141,
+    "Phone Number":"",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.611756,-7.945737 ]
+    },
+    "properties": {
+    "id":30,
+    "Name":"Nasional Motor",
+    "Address":"Jl. MT. Haryono No.73, Ketawanggede, Kec. Lowokwaru, Kota Malang, Jawa Timur 65145",
+    "Zip Code":65145,
+    "Phone Number":"(0341) 554462",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6030092,-7.9482914 ]
+    },
+    "properties": {
+    "id":31,
+    "Name":"Handoko Hjm Bengkel",
+    "Address":"Jl. Joyo Suko IV, Merjosari, Kec. Lowokwaru, Kota Malang, Jawa Timur 65144",
+    "Zip Code":65144,
+    "Phone Number":"0851-0061-3464",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6198196,-7.9434663 ]
+    },
+    "properties": {
+    "id":32,
+    "Name":"Bengkel Sugeng",
+    "Address":"Jl. Soekarno Hatta, Jatimulyo, Kec. Lowokwaru, Kota Malang, Jawa Timur 65141",
+    "Zip Code":65141,
+    "Phone Number":"(0341) 7691660",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.62192,-7.9462636 ]
+    },
+    "properties": {
+    "id":33,
+    "Name":"Arscoot Garage Malang",
+    "Address":"Jl. Cengkeh No.43, Jatimulyo, Kec. Lowokwaru, Kota Malang, Jawa Timur 65141",
+    "Zip Code":65141,
+    "Phone Number":"0878-7579-0094",
+    "Website":"http://instagram.com/arscootgarage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6474092,-7.9601569 ]
+    },
+    "properties": {
+    "id":34,
+    "Name":"BENGKEL ARIFIN MALANG",
+    "Address":"Jl. Sebuku 2 No.11, Bunulrejo, Kec. Blimbing, Kota Malang, Jawa Timur 65126",
+    "Zip Code":65126,
+    "Phone Number":"0812-4963-4279",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6372821,-7.953045 ]
+    },
+    "properties": {
+    "id":35,
+    "Name":"Bengkel Mobil Irwan Service",
+    "Address":"Jalan Kedawung, Gang. V No. 1, Lowokwaru, Kec. Lowokwaru, Kota Malang, Jawa Timur 65141",
+    "Zip Code":65141,
+    "Phone Number":"0812-5214-899",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6314046,-7.9581947 ]
+    },
+    "properties": {
+    "id":36,
+    "Name":"Bengkel Hijau",
+    "Address":"Jl. Mawar No.11, Lowokwaru, Kec. Lowokwaru, Kota Malang, Jawa Timur 65141",
+    "Zip Code":65141,
+    "Phone Number":"",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6314046,-7.9581947 ]
+    },
+    "properties": {
+    "id":37,
+    "Name":"Bengkel Hijau",
+    "Address":"Jl. Mawar No.11, Lowokwaru, Kec. Lowokwaru, Kota Malang, Jawa Timur 65141",
+    "Zip Code":65141,
+    "Phone Number":"",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6115789,-7.9654613 ]
+    },
+    "properties": {
+    "id":38,
+    "Name":"Bengkel Mobil Aka",
+    "Address":"Jl. Meratus No.01, Karangbesuki, Kec. Sukun, Kota Malang, Jawa Timur 65149",
+    "Zip Code":65149,
+    "Phone Number":"0815-5555-758",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.5836256,-7.9377561 ]
+    },
+    "properties": {
+    "id":39,
+    "Name":"Bengkel Barokah Mobil & Motor",
+    "Address":"Jl. Joyo Agung Rt.03/Rw.07, Merjosari, Dau, Merjosari, Kec. Lowokwaru, Kota Malang, Jawa Timur 65144",
+    "Zip Code":65144,
+    "Phone Number":"0813-3327-4874",
+    "Website":"http://bengkelbarokahmobilmotor.business.site/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6298035,-7.9654159 ]
+    },
+    "properties": {
+    "id":40,
+    "Name":"Bengkel Motor 24 Jam Jawara",
+    "Address":"Jl. Lembang, Samaan, Kec. Klojen, Kota Malang, Jawa Timur 65112",
+    "Zip Code":65112,
+    "Phone Number":"0896-6549-9677",
+    "Website":"http://www.bengkelmotorpanggilanmalang.blogspot.co.id/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6063248,-7.9574391 ]
+    },
+    "properties": {
+    "id":41,
+    "Name":"Bengkel Pak Ndut",
+    "Address":"Karangbesuki, Kec. Sukun, Kota Malang, Jawa Timur 65149",
+    "Zip Code":65149,
+    "Phone Number":"",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6314283,-7.9560973 ]
+    },
+    "properties": {
+    "id":42,
+    "Name":"Bengkel Kerabat Motor",
+    "Address":"Jl. Bungur No.11A, Lowokwaru, Kec. Lowokwaru, Kota Malang, Jawa Timur 65141",
+    "Zip Code":65141,
+    "Phone Number":"0812-5514-4001",
+    "Website":"https://bengkel-kerabat-motor.business.site/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6091387,-7.9401899 ]
+    },
+    "properties": {
+    "id":43,
+    "Name":"Bengkel Makmur Kita Mobil",
+    "Address":"Dinoyo, Kec. Lowokwaru, Kota Malang, Jawa Timur 65144",
+    "Zip Code":65144,
+    "Phone Number":"(0341) 551261",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.633873,-7.972902 ]
+    },
+    "properties": {
+    "id":44,
+    "Name":"Makmur Jaya Motor",
+    "Address":"Jl. Patimura No.12, Klojen, Kec. Klojen, Kota Malang, Jawa Timur 65111",
+    "Zip Code":65111,
+    "Phone Number":"(0341) 326757",
+    "Website":"http://mjm-malang.business.site/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.604513,-7.948333 ]
+    },
+    "properties": {
+    "id":45,
+    "Name":"Servis Motor Setia Hati",
+    "Address":"Jalan Joyosuko No.02 depan pasar merjosari, Dinoyo, Kec. Lowokwaru, Kota Malang, Jawa Timur 65144",
+    "Zip Code":65144,
+    "Phone Number":"0857-9076-6632",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6236728,-7.9451568 ]
+    },
+    "properties": {
+    "id":46,
+    "Name":"Bengkel Cobra Motor",
+    "Address":"Kendalsari Gg. 1 No.81, Tulusrejo, Kec. Lowokwaru, Kota Malang, Jawa Timur 65141",
+    "Zip Code":65141,
+    "Phone Number":"0858-5998-3797",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6540649,-7.9790755 ]
+    },
+    "properties": {
+    "id":47,
+    "Name":"Bengkel mobil 'Han' sawojajar",
+    "Address":"Jl. Raya Sawojajar No.7, Sawojajar, Kec. Kedungkandang, Kota Malang, Jawa Timur 65139",
+    "Zip Code":65139,
+    "Phone Number":"0821-4177-8551",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6540649,-7.9790755 ]
+    },
+    "properties": {
+    "id":48,
+    "Name":"Bengkel mobil 'Han' sawojajar",
+    "Address":"Jl. Raya Sawojajar No.7, Sawojajar, Kec. Kedungkandang, Kota Malang, Jawa Timur 65139",
+    "Zip Code":65139,
+    "Phone Number":"0821-4177-8551",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.6335442,-7.9672142 ]
+    },
+    "properties": {
+    "id":49,
+    "Name":"Bengkel JoyoSemoyo",
+    "Address":"No., Jl. Dr. Cipto No.10, Rampal Celaket, Kec. Klojen, Kota Malang, Jawa Timur 65111",
+    "Zip Code":65111,
+    "Phone Number":"",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.649662,-7.955537 ]
+    },
+    "properties": {
+    "id":50,
+    "Name":"Arjosari Java Motor",
+    "Address":"Jl Tl Etna V No.86, Purwantoro, Kec. Blimbing, Kota Malang, Jawa Timur 65126",
+    "Zip Code":65126,
+    "Phone Number":"(0341) 417184",
+    "Website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 112.627681,-7.937799 ]
+    },
+    "properties": {
+    "id":51,
+    "Name":"Bengkel Mobil Nusa",
+    "Address":"Jl. Soekarno Hatta No.83, Mojolangu, Kec. Lowokwaru, Kota Malang, Jawa Timur 65142",
+    "Zip Code":65142,
+    "Phone Number":"0851-0079-7968",
+    "Website":"https://bengkel-mobil-nusa.business.site/"
+    }
+  }
+}
